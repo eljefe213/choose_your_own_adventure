@@ -23,6 +23,7 @@ elif answer == "right":
 
         if answer == "yes":
             print("You talk to the stranger and they give you precious stone 💎. You WIN 🏆")
+            print("CONGRATULATIONS",name," 🎊 🎊 🎊")
             
         elif answer == "no":
             print("You ignore the stranger and they are offended. You lose ❌")
@@ -35,4 +36,4 @@ elif answer == "right":
 else:
     print("Not a valid option. You lose ❌")
 
-print("CONGRATULATIONS",name," 🎊 🎊 🎊")
+print("Thank you for trynig",name," see you next time!")
